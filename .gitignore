@@ -39,3 +39,7 @@ Carthage
 
 ## CoreML models
 *.mlmodel
+
+## caffee models
+Convert/cnn_age_gender_models_and_data.0.0.2/*
+Convert/cnn_age_gender_models_and_data.0.0.2.zip
